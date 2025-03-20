@@ -1,0 +1,124 @@
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: 'Market Capitalization (USD)' column not found in DataFrame
+Progress at stage: Transformation completed
+Progress at stage: Starting CSV load
+Progress at stage: CSV load completed
+Progress at stage: Starting DB load
+Progress at stage: DB load completed
+Progress at stage: Starting query execution
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: 'Market Capitalization (USD)' column not found in DataFrame
+Progress at stage: Transformation completed
+Progress at stage: Starting CSV load
+Progress at stage: CSV load completed
+Progress at stage: Starting DB load
+Progress at stage: DB load completed
+Progress at stage: Starting query execution
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: 'Market Capitalization (USD)' column not found in DataFrame
+Progress at stage: Transformation completed
+Progress at stage: Starting CSV load
+Progress at stage: CSV load completed
+Progress at stage: Starting DB load
+Progress at stage: DB load completed
+Progress at stage: Starting query execution
+Progress at stage: Error occurred: Not an executable object: 'SELECT * FROM Largest_banks'
+Progress at stage: Starting extraction
+Progress at stage: Error occurred: name 'r' is not defined
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: 'Market Capitalization (USD)' column not found in DataFrame
+Progress at stage: Transformation completed
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Transformation completed
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Transformation completed
+Progress at stage: Starting CSV load
+Progress at stage: CSV load completed
+Progress at stage: Starting DB load
+Progress at stage: DB load completed
+Progress at stage: Starting query execution
+Progress at stage: Error occurred: Not an executable object: 'SELECT * FROM Largest_banks'
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Error occurred: 'Market Capitalization (USD)'
+Progress at stage: Starting extraction
+Progress at stage: Received response from URL
+Progress at stage: Parsed HTML content
+Progress at stage: Found the table in HTML content
+Progress at stage: Created DataFrame from extracted data
+Progress at stage: Extraction completed
+Progress at stage: Starting transformation
+Progress at stage: Transformation completed
+Progress at stage: Starting CSV load
+Progress at stage: CSV load completed
+Progress at stage: Starting DB load
+Progress at stage: DB load completed
+Progress at stage: Starting query execution
+Progress at stage: Query execution completed
+Progress at stage: Starting query execution
+Progress at stage: Starting query execution
+Progress at stage: Starting query execution
+Progress at stage: Starting query execution
+Progress at stage: Query execution completed
